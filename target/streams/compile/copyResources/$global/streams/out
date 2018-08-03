@@ -1,0 +1,3 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/hongruizhang/practice/howtographql-sangria/src/main/resources/application.conf,/home/hongruizhang/practice/howtographql-sangria/target/scala-2.12/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/home/hongruizhang/practice/howtographql-sangria/src/main/resources/graphiql.html,/home/hongruizhang/practice/howtographql-sangria/target/scala-2.12/classes/graphiql.html)[0m
